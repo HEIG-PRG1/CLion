@@ -70,7 +70,7 @@ Etre capable de compiler un programme C++
 
 3. Si le temps le permet, installer github et pratiquer ;)
 
-- [git pour PRG1](Git pour PRG1.pdf)
+- [git pour PRG1](<Git pour PRG1.pdf>)
 - [github pour CLion](GitHub4CLion.pdf)
 - [simulateur](https://learngitbranching.js.org/?locale=fr_FR)
 
